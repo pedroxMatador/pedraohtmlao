@@ -1,23 +1,54 @@
+// perguntas.js
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
-)
+    'O que é um array em JavaScript?',
+    'Um array é uma estrutura de dados que armazena uma coleção ordenada de elementos.'
+);
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
-)
+    'Biologia',
+    'Qual a função do DNA?',
+    'O DNA armazena e transmite as informações genéticas dos seres vivos.'
+);
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
-)
+    'Literatura',
+    'Quem escreveu "Dom Casmurro"?',
+    'Machado de Assis.'
+);
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
-)
+    'Química',
+    'Qual o símbolo químico da água?',
+    'H₂O.'
+);
+
+criaCartao(
+    'Educação Financeira',
+    'O que é juros compostos?',
+    'Juros compostos são juros calculados sobre o principal inicial e também sobre os juros acumulados de períodos anteriores.'
+);
+
+criaCartao(
+    'Física',
+    'O que é a Lei da Gravitação Universal?',
+    'É a lei que descreve a força de atração entre dois corpos em função de suas massas e da distância entre eles.'
+);
+
+criaCartao(
+    'Atualidades',
+    'Qual o principal objetivo dos Objetivos de Desenvolvimento Sustentável (ODS)?',
+    'Promover o desenvolvimento sustentável em nível global, abordando desafios sociais, econômicos e ambientais.'
+);
+
+criaCartao(
+    'Idiomas',
+    'Como se diz "obrigado" em espanhol?',
+    '"Gracias".'
+);
+
+criaCartao(
+    'Informática',
+    'O que é a nuvem (cloud computing)?',
+    'A nuvem é a entrega de serviços de computação, incluindo servidores, armazenamento, bancos de dados, redes, software, análise e inteligência, pela internet.'
+);
