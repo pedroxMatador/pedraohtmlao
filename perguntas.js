@@ -1,4 +1,3 @@
-// perguntas.js
 criaCartao(
     'Programação',
     'O que é um array em JavaScript?',
