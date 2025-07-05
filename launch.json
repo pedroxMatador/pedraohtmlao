@@ -1,0 +1,30 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Edge - Launch (Recomendado)",
+            "type": "msedge",
+            "request": "launch",
+            "file": "${workspaceFolder}/index.html",
+            "webRoot": "${workspaceFolder}",
+            "runtimeArgs": [
+                "--allow-file-access-from-files"
+            ]
+        },
+        {
+            "name": "Edge - Caminho Absoluto",
+            "type": "msedge",
+            "request": "launch",
+            "file": "c:\\Users\\pedro\\OneDrive\\Desktop\\pedraohtmlao\\projeto\\index.html",
+            "webRoot": "c:\\Users\\pedro\\OneDrive\\Desktop\\pedraohtmlao\\projeto"
+        },
+        {
+            "name": "Attach to Edge",
+            "port": 9222,
+            "request": "attach",
+            "type": "msedge",
+            "webRoot": "${workspaceFolder}",
+            "timeout": 30000
+        }
+    ]
+}

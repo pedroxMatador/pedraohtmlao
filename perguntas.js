@@ -11,12 +11,6 @@ criaCartao(
 );
 
 criaCartao(
-    'Literatura',
-    'Quem escreveu "Dom Casmurro"?',
-    'Machado de Assis.'
-);
-
-criaCartao(
     'Química',
     'Qual o símbolo químico da água?',
     'H₂O.'
@@ -40,14 +34,11 @@ criaCartao(
     'Promover o desenvolvimento sustentável em nível global, abordando desafios sociais, econômicos e ambientais.'
 );
 
-criaCartao(
-    'Idiomas',
-    'Como se diz "obrigado" em espanhol?',
-    '"Gracias".'
-);
 
 criaCartao(
     'Informática',
     'O que é a nuvem (cloud computing)?',
     'A nuvem é a entrega de serviços de computação, incluindo servidores, armazenamento, bancos de dados, redes, software, análise e inteligência, pela internet.'
 );
+
+console.log('Todos os cartões foram criados!');
